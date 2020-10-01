@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "art")(type "KiCad")(uri "/home/pdp7/dev/oshpark/art")(options "")(descr ""))
+)
