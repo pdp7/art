@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="pumpkin-hilights.svg"
+   id="svg4943"
+   version="1.1"
+   viewBox="0 0 100.0 100.0"
+   height="100.0mm"
+   width="100.0mm">
+  <defs
+     id="defs4937" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5032888"
+     inkscape:cx="24.193459"
+     inkscape:cy="259.28562"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g4992"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     borderlayer="true">
+    <inkscape:grid
+       spacingx="2.54"
+       spacingy="2.54"
+       empspacing="1"
+       type="xygrid"
+       units="mm"
+       id="grid4946" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4940">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4952"
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
+     inkscape:label="[fixed] BG"
+     style="display:inline">
+    <rect
+       id="rect4950"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       height="100"
+       width="100"
+       y="0"
+       x="0" />
+  </g>
+  <g
+     id="g4954"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Cu"
+     style="display:inline" />
+  <g
+     id="g4956"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Cu-disabled"
+     style="display:inline" />
+  <g
+     id="g4958"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Adhes-disabled"
+     style="display:inline" />
+  <g
+     id="g4960"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Adhes-disabled"
+     style="display:inline" />
+  <g
+     id="g4962"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Paste-disabled"
+     style="display:inline" />
+  <g
+     id="g4964"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Paste-disabled"
+     style="display:inline" />
+  <g
+     id="g4966"
+     inkscape:groupmode="layer"
+     inkscape:label="B.SilkS-disabled"
+     style="display:inline" />
+  <g
+     id="g4968"
+     inkscape:groupmode="layer"
+     inkscape:label="F.SilkS-disabled"
+     style="display:inline" />
+  <g
+     id="g4970"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Mask-disabled"
+     style="display:inline" />
+  <g
+     id="g4972"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Mask"
+     style="display:inline">
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.68896234"
+       d="m 197.82812,25.089844 c -21.59208,13.20121 -19.61711,46.039903 -24.11328,73.490234 l 35.15625,5.494142 c 60.53262,71.17086 71.81553,152.34568 32.02735,206.82226 64.48245,-18.0532 63.07479,-139.99893 -31.80469,-211.560542 -9.9817,-37.687611 -4.42567,-51.490216 16.29492,-65.054688 l -27.55859,-9.185547 z m 47.73243,62.113281 C 341.93949,161.14259 330.66728,248.22056 291.08984,304.00586 357.01388,248.19369 379.10555,155.51374 245.56055,87.203125 Z M 144,89.953125 C 20.813533,142.32804 52.389289,250.57659 106.57617,309.04883 83.482155,243.38377 55.847267,160.03437 144,89.953125 Z M 96.8125,91.662109 C 6.8340157,107.41182 -5.0908528,245.3336 61.083984,290.37109 15.922495,239.38096 28.370982,128.76962 96.8125,91.662109 Z m 70.57812,10.333981 c -40.60055,105.31476 -30.71362,155.97437 -9.31445,207.89453 -6.12487,-52.14066 -7.45489,-127.15505 9.31445,-207.89453 z"
+       id="path5189"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+  </g>
+  <g
+     id="g4974"
+     inkscape:groupmode="layer"
+     inkscape:label="Dwgs.User-disabled"
+     style="display:inline" />
+  <g
+     id="g4976"
+     inkscape:groupmode="layer"
+     inkscape:label="Cmts.User-disabled"
+     style="display:inline" />
+  <g
+     id="g4978"
+     inkscape:groupmode="layer"
+     inkscape:label="Eco1.User-disabled"
+     style="display:inline" />
+  <g
+     id="g4980"
+     inkscape:groupmode="layer"
+     inkscape:label="Eco2.User-disabled"
+     style="display:inline" />
+  <g
+     id="g4982"
+     inkscape:groupmode="layer"
+     inkscape:label="Edge.Cuts"
+     style="display:inline" />
+  <g
+     id="g4984"
+     inkscape:groupmode="layer"
+     inkscape:label="Margin-disabled"
+     style="display:inline" />
+  <g
+     id="g4986"
+     inkscape:groupmode="layer"
+     inkscape:label="B.CrtYd-disabled"
+     style="display:inline" />
+  <g
+     id="g4988"
+     inkscape:groupmode="layer"
+     inkscape:label="F.CrtYd-disabled"
+     style="display:inline" />
+  <g
+     id="g4990"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Fab-disabled"
+     style="display:inline" />
+  <g
+     id="g4992"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Fab-disabled"
+     style="display:inline" />
+  <g
+     id="g4994"
+     inkscape:groupmode="layer"
+     inkscape:label="Drill"
+     style="display:inline" />
+</svg>

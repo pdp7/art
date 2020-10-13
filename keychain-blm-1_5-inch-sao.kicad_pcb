@@ -70,7 +70,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "gerbers/keychain-v4")
+      (outputdirectory "gerbers/sao-v1")
     )
   )
 

@@ -1,7 +1,7 @@
 {
   "board": {
     "active_layer": 44,
-    "active_layer_preset": "",
+    "active_layer_preset": "All Layers",
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -60,7 +60,7 @@
       36,
       37
     ],
-    "visible_layers": "fffff7f_7ffffffe"
+    "visible_layers": "fffffff_ffffffff"
   },
   "meta": {
     "filename": "keychain-blm-1_5-inch-v4.kicad_prl",

@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 44,
+    "active_layer": 0,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -36,7 +36,6 @@
       8,
       9,
       10,
-      11,
       12,
       13,
       14,
@@ -60,10 +59,10 @@
       36,
       37
     ],
-    "visible_layers": "fffff7f_7fffffff"
+    "visible_layers": "fffffff_ffffffff"
   },
   "meta": {
-    "filename": "blm-1-inch.kicad_prl",
+    "filename": "keychain-blm-1-inch-v2.kicad_prl",
     "version": 2
   },
   "project": {
