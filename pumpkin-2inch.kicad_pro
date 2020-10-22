@@ -2,7 +2,7 @@
   "board": {
     "design_settings": {
       "defaults": {
-        "board_outline_line_width": 0.09999999999999999,
+        "board_outline_line_width": 0.049999999999999996,
         "copper_line_width": 0.19999999999999998,
         "copper_text_italic": false,
         "copper_text_size_h": 1.5,
@@ -115,7 +115,7 @@
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
         "solder_paste_clearance": 0.0,
-        "solder_paste_margin_ratio": -0.0
+        "solder_paste_margin_ratio": 0.0
       },
       "track_widths": [
         0.25
@@ -140,7 +140,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "keychain-blm-1_5-inch-v4.kicad_pro",
+    "filename": "pumpkin-2inch.kicad_pro",
     "version": 1
   },
   "net_settings": {

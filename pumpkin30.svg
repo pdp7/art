@@ -14,7 +14,7 @@
    viewBox="0 0 100.0 100.0"
    version="1.1"
    id="svg4943"
-   sodipodi:docname="pumpkin25.svg"
+   sodipodi:docname="pumpkin30.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
      id="defs4937" />
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8202701"
-     inkscape:cx="114.26789"
-     inkscape:cy="98.726832"
+     inkscape:zoom="0.91013505"
+     inkscape:cx="-79.763835"
+     inkscape:cy="72.754009"
      inkscape:document-units="mm"
      inkscape:current-layer="g4982"
      showgrid="true"
-     inkscape:window-width="960"
+     inkscape:window-width="1920"
      inkscape:window-height="1016"
-     inkscape:window-x="960"
+     inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      borderlayer="true">
     <inkscape:grid
        id="grid4946"
@@ -149,7 +149,7 @@
     <g
        style="display:inline"
        id="g5754"
-       transform="matrix(0.375,0,0,0.375,31.810884,28.009969)">
+       transform="matrix(0.2109375,0,0,0.2109375,40.13449,35.385569)">
       <path
          inkscape:connector-curvature="0"
          id="path4677-6"
