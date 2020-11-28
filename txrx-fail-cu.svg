@@ -41,13 +41,13 @@
      inkscape:window-height="1016"
      id="namedview1567"
      showgrid="true"
-     inkscape:zoom="3.5966764"
-     inkscape:cx="163.38474"
-     inkscape:cy="198.36924"
-     inkscape:window-x="2560"
-     inkscape:window-y="387"
+     inkscape:zoom="8.1661663"
+     inkscape:cx="193.60858"
+     inkscape:cy="192.16629"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1613"
+     inkscape:current-layer="g1631"
      borderlayer="true"
      inkscape:document-units="mm">
     <inkscape:grid
@@ -79,48 +79,6 @@
        transform="translate(32.116128,24.157744)"
        style="stroke-width:0.26458299"
        id="g1563" />
-    <circle
-       transform="translate(32.116128,24.157744)"
-       style="stroke-width:0.26458299"
-       cx="18.488228"
-       cy="18.463634"
-       r="0.79374999"
-       id="circle1535" />
-    <circle
-       transform="translate(32.116128,24.157744)"
-       style="stroke-width:0.26458299"
-       cx="25.727005"
-       cy="18.463636"
-       r="0.79374999"
-       id="circle1537" />
-    <circle
-       transform="translate(32.116128,24.157744)"
-       style="stroke-width:0.26458299"
-       cx="18.488228"
-       cy="25.213305"
-       r="0.79374999"
-       id="circle1539" />
-    <circle
-       transform="translate(32.116128,24.157744)"
-       style="stroke-width:0.26458299"
-       cx="25.727005"
-       cy="25.213306"
-       r="0.79374999"
-       id="circle1541" />
-    <circle
-       transform="translate(32.116128,24.157744)"
-       style="stroke-width:0.26458299"
-       cx="18.488228"
-       cy="32.259201"
-       r="0.79374999"
-       id="circle1543" />
-    <circle
-       transform="translate(32.116128,24.157744)"
-       style="stroke-width:0.26458299"
-       cx="25.727005"
-       cy="32.259197"
-       r="0.79374999"
-       id="circle1545" />
     <path
        transform="translate(32.116128,24.157744)"
        style="stroke-width:0.26458299;fill:none;stroke:#000000"
@@ -164,10 +122,9 @@
        d="m 25.629185,18.488228 c -0.68475,-1.499927 -1.369499,-2.999854 -2.054249,-4.49978 -0.130428,-0.130429 -0.210788,-0.429285 -0.391285,-0.391286 -0.7984,0.168085 -3.485841,1.70513 -2.641175,3.032461 0.298244,0.46867 1.112363,0.556182 1.565141,0.782571 0.518625,0.259312 -0.912574,1.697837 0.78257,-1.076035 0.0113,-0.01849 0.642195,-0.727304 0.391285,-0.978213 -0.329512,-0.329512 -1.25022,0.329313 -1.369498,0.782571 -0.06767,0.257161 -0.0031,1.578099 0.09782,1.956426 0.04003,0.150122 0.632012,1.014448 0.489107,1.271677 -0.139089,0.250359 -0.819805,1.183164 -1.173856,1.271677 -0.520681,0.13017 -2.703414,0.121824 -3.228103,0.489107 -0.331596,0.232116 -0.181453,0.849218 0,1.076034 0.349864,0.43733 1.298767,0.55281 1.076034,1.369498 -0.165522,0.606914 -0.368825,0.321245 -0.586928,0.684749 -0.186474,0.310791 -0.03785,0.324949 -0.09782,0.68475 -0.04233,0.254002 -0.310677,0.266595 0.195643,0.09782"
        id="path1559" />
     <path
-       transform="translate(32.116128,24.157744)"
        style="stroke-width:0.26458299"
        inkscape:connector-curvature="0"
-       d="m 18.952612,31.991177 h 6.467405 v 0.553363 h -6.467405 z"
+       d="m 50.8,56.266637 h 6.467405 V 56.82 H 50.8 Z"
        id="path1561" />
   </g>
   <g
@@ -205,7 +162,57 @@
   <g
      id="g1631"
      inkscape:groupmode="layer"
-     inkscape:label="F.Mask-disabled" />
+     inkscape:label="F.Mask">
+    <circle
+       transform="translate(32.116128,24.157744)"
+       style="stroke-width:0.26458299"
+       cx="18.488228"
+       cy="18.463634"
+       r="0.79374999"
+       id="circle1535" />
+    <circle
+       transform="translate(32.116128,24.157744)"
+       style="stroke-width:0.26458299"
+       cx="18.488228"
+       cy="25.213305"
+       r="0.79374999"
+       id="circle1539" />
+    <circle
+       transform="translate(32.116128,24.157744)"
+       style="stroke-width:0.26458299"
+       cx="25.727005"
+       cy="25.213306"
+       r="0.79374999"
+       id="circle1541" />
+    <circle
+       transform="translate(32.116128,24.157744)"
+       style="stroke-width:0.26458299"
+       cx="25.727005"
+       cy="18.463636"
+       r="0.79374999"
+       id="circle1537" />
+    <circle
+       transform="translate(32.116128,24.157744)"
+       style="stroke-width:0.26458299"
+       cx="25.727005"
+       cy="32.259197"
+       r="0.79374999"
+       id="circle1545" />
+    <circle
+       transform="translate(32.116128,24.157744)"
+       style="stroke-width:0.26458299"
+       cx="18.488228"
+       cy="32.259201"
+       r="0.79374999"
+       id="circle1543" />
+    <circle
+       id="circle255"
+       r="0.79374999"
+       cy="18.463634"
+       cx="18.488228"
+       style="stroke-width:0.26458299"
+       transform="translate(32.116128,24.157744)" />
+  </g>
   <g
      id="g1633"
      inkscape:groupmode="layer"
