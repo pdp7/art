@@ -30,3 +30,4 @@ fp-info-cache
 *.zip
 *.drl
 gerbers/*
+.svg2shenzhen-cache/
