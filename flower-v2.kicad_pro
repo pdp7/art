@@ -11,7 +11,7 @@
         "copper_text_upright": false,
         "courtyard_line_width": 0.049999999999999996,
         "dimension_precision": 4,
-        "dimension_units": 0,
+        "dimension_units": 3,
         "dimensions": {
           "arrow_length": 1270000,
           "extension_offset": 500000,
@@ -48,13 +48,7 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.25,
-          "via_gap": 0.25,
-          "width": 0.2
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "version": 1
@@ -111,22 +105,14 @@
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.049999999999999996,
-        "min_via_annulus": 0.049999999999999996,
         "min_via_diameter": 0.39999999999999997,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
         "solder_paste_clearance": 0.0,
         "solder_paste_margin_ratio": 0.0
       },
-      "track_widths": [
-        0.25
-      ],
-      "via_dimensions": [
-        {
-          "diameter": 0.8,
-          "drill": 0.4
-        }
-      ],
+      "track_widths": [],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -141,7 +127,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "art2.kicad_pro",
+    "filename": "flower-v2.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -176,7 +162,6 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "",
-      "vmrl": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""

@@ -1,4 +1,4 @@
-(kicad_pcb (version 20200922) (generator pcbnew)
+(kicad_pcb (version 20201220) (generator pcbnew)
 
   (general
     (thickness 1.6)
@@ -31,6 +31,7 @@
   (setup
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
+      (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes true)
       (usegerberadvancedattributes true)
@@ -38,7 +39,6 @@
       (svguseinch false)
       (svgprecision 6)
       (excludeedgelayer true)
-      (linewidth 0.100000)
       (plotframeref false)
       (viasonmask false)
       (mode 1)
@@ -46,6 +46,9 @@
       (hpglpennumber 1)
       (hpglpenspeed 20)
       (hpglpendiameter 15.000000)
+      (dxfpolygonmode true)
+      (dxfimperialunits true)
+      (dxfusepcbnewfont true)
       (psnegative false)
       (psa4output false)
       (plotreference true)
@@ -64,8 +67,41 @@
 
   (net 0 "")
 
-  (gr_line (start 41.7576 156.1338) (end 43.18 156.1338) (layer "F.Cu") (width 0.2) (tstamp 3d8a5a18-97dd-4c87-9f44-82196e11d2d5))
-  (gr_line (start 43.18 156.1338) (end 44.2722 157.226) (layer "F.Cu") (width 0.2) (tstamp b8ea6621-a79a-4106-b1de-76435c213c1e))
-  (gr_rect (start 40.132 154.432) (end 44.704 159.004) (layer "Edge.Cuts") (width 0.05) (tstamp 29ca6319-11a7-4c4e-9b13-150244b4f289))
+  (gr_rect (start 142.7988 146.2024) (end 35.9156 81.0006) (layer "Edge.Cuts") (width 0.05) (fill none) (tstamp 4801229e-c82f-49c5-aeb5-a2272a10ab0f))
 
+  (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 4dc45f92-aab5-444c-a588-7010c921dd7b) (hatch edge 0.508)
+    (connect_pads (clearance 0.508))
+    (min_thickness 0.254) (filled_areas_thickness no)
+    (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 132.08 142.9258)
+        (xy 40.132 142.9258)
+        (xy 40.132 83.439)
+        (xy 132.08 83.439)
+      )
+    )
+    (filled_polygon
+      (layer "F.Cu")
+      (island)
+      (pts
+        (xy 132.022121 83.459002)
+        (xy 132.068614 83.512658)
+        (xy 132.08 83.565)
+        (xy 132.08 142.7998)
+        (xy 132.059998 142.867921)
+        (xy 132.006342 142.914414)
+        (xy 131.954 142.9258)
+        (xy 40.258 142.9258)
+        (xy 40.189879 142.905798)
+        (xy 40.143386 142.852142)
+        (xy 40.132 142.7998)
+        (xy 40.132 83.565)
+        (xy 40.152002 83.496879)
+        (xy 40.205658 83.450386)
+        (xy 40.258 83.439)
+        (xy 131.954 83.439)
+      )
+    )
+  )
 )
