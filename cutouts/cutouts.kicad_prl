@@ -1,8 +1,8 @@
 {
   "board": {
-    "active_layer": 37,
-    "active_layer_preset": "All Layers",
-    "auto_track_width": false,
+    "active_layer": 36,
+    "active_layer_preset": "",
+    "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -63,11 +63,11 @@
       39,
       40
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "7ffffff_80000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "pot-v2.kicad_prl",
+    "filename": "cutouts.kicad_prl",
     "version": 2
   },
   "project": {
