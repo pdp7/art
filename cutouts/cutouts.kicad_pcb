@@ -12,8 +12,8 @@
     (33 "F.Adhes" user "F.Adhesive")
     (34 "B.Paste" user)
     (35 "F.Paste" user)
-    (36 "B.SilkS" user)
-    (37 "F.SilkS" user)
+    (36 "B.SilkS" user "B.Silkscreen")
+    (37 "F.SilkS" user "F.Silkscreen")
     (38 "B.Mask" user)
     (39 "F.Mask" user)
     (40 "Dwgs.User" user "User.Drawings")
@@ -90,6 +90,23 @@
 
   (net 0 "")
 
+  (footprint "MountingHole:MountingHole_2.5mm_Pad" (layer "F.Cu")
+    (tedit 6031EDBC) (tstamp b4429a11-cf2b-4a67-ba08-e542bd82cfc0)
+    (at 148.9456 64.8716)
+    (descr "Mounting Hole 2.5mm")
+    (tags "mounting hole 2.5mm")
+    (attr exclude_from_pos_files exclude_from_bom)
+    (fp_text reference "REF**" (at 0 -3.5) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp d376365d-4152-4cde-ab31-8a7f6fbd14d6)
+    )
+    (fp_text value "drag drill" (at 0 3.5) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 2072111e-480f-4003-8130-501ee2c6623a)
+    )
+    (pad "1" thru_hole oval (at 0 0) (size 2.286 0.762) (drill oval 2.032 0.508) (layers *.Cu *.Mask) (tstamp 27282649-6ac3-41ac-aa26-ee6e5a7b783e))
+  )
+
   (gr_line (start 128.4986 62.103) (end 128.4986 87.4268) (layer "Eco2.User") (width 0.15) (tstamp 3c3362b8-e2b5-4c20-aa61-25008100be9f))
   (gr_line (start 142.621 62.1284) (end 142.621 87.4522) (layer "Eco2.User") (width 0.15) (tstamp 9b8d082c-300d-4137-b9af-c56a902163e1))
   (gr_rect (start 126.0348 62.0776) (end 151.4348 87.4776) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 12a995ac-00e2-4c34-ad2e-10d3ee600528))
@@ -131,7 +148,5 @@
   (gr_text "Slot Test" (at 150.2156 74.3458 90) (layer "F.Mask") (tstamp 46223b5f-ad73-4508-a169-f8557cec3fce)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-
-  (via (at 149.479 63.9318) (size 1.778) (drill 1.524) (layers "F.Cu" "B.Cu") (free) (net 0) (tstamp af7e79da-e7e6-4657-b92f-a533877a3726))
 
 )
